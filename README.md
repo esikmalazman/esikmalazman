@@ -3,10 +3,12 @@
 iOS Engineer from 🇲🇾 Malaysia with 6 month experience in iOS Development and still learning 🕊 Swift on my own. 
 I'm also interested in 👨‍💻 design UI/UX and ☁️ cloud computing.
 
-
-### My App
+<br>
 
 <p align="center">
+<h2 align="center"> 📱 My App </h2>
+<h2>Noted.</h2>
+<br>
 
 ![noted-icon](https://user-images.githubusercontent.com/59039044/123562235-ff8c5d80-d7df-11eb-9191-a687090a8bb6.png)
 <br><br>
