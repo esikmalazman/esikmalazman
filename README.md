@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ikmal Azman
 
 iOS Engineer from 🇲🇾 Malaysia with 6 month experience in iOS Development and still learning 🕊 Swift on my own. 
-I'm also interested in 👨‍💻 design UI/UX and ☁️ cloud computing.
+I'm also interested in 👨‍💻 UI/UX design, ☁️ Cloud Computing & 🤖 AI/ML.
 
 <br>
 
