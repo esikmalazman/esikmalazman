@@ -1,10 +1,12 @@
-### Hi there 👋 I'm Ikmal Azman
 
-iOS Engineer from 🇲🇾 Malaysia, I have 1+ experience in iOS Development and still learning 🕊 Swift on my own. 
-I'm also interested in 👨‍💻 UI/UX design, ☁️ Cloud Computing & 🤖 AI/ML.
+<h1> Hi there 👋, I'm Ikmal Azman </h1>
+
+- iOS Engineer from 🇲🇾 Malaysia that have 1+ experience in iOS Engineering in developing application for Education industry. 
+- I'm interested in 👨‍💻 User Interface/User Experience design, 👓 Augmented Reality(AR) and 🤖 Machine Learning.
+- 🤝 Let connect with me on [LinkedIn](https://www.linkedin.com/in/esikmalazman/) or [Twitter](https://twitter.com/esikmalazman)
 
 <br>
-
+<!-- 
 <p align="center">
 <h2 align="center"> 📱 My App </h2>
 <h2>Noted.</h2>
@@ -15,4 +17,5 @@ I'm also interested in 👨‍💻 UI/UX design, ☁️ Cloud Computing & 🤖 A
 <br><br>
 <a href="https://apps.apple.com/my/app/noted/id1574642847?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1625961600&h=3e5559a1ee7eafa9a383994c36ec6167" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 </p>
+ -->
 
