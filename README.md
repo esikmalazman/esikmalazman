@@ -6,6 +6,11 @@
 - 🤝 Let connect with me on [LinkedIn](https://www.linkedin.com/in/esikmalazman/) or [Twitter](https://twitter.com/esikmalazman)
 
 <br>
+
+<a href="https://github.com/esikmalazman/Privacam-Submission-WWDC22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esikmalazman&repo=Privacam-Submission-WWDC22&title_color=000000" />
+</a>
+
 <!-- 
 <p align="center">
 <h2 align="center"> 📱 My App </h2>
