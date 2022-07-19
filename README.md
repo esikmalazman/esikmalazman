@@ -1,7 +1,7 @@
 
 <h1> Hi there 👋, I'm Ikmal Azman </h1>
 
-- iOS Engineer from 🇲🇾 Malaysia that have 1+ experience in iOS Engineering, developing application for Education industry. 
+- iOS Engineer from 🇲🇾 Malaysia that have 1 1/2 experience in iOS Engineering, developing application for Education industry. 
 - I'm interested in 👨‍💻 User Interface/User Experience design, 👓 Augmented Reality(AR) and 🤖 Machine Learning.
 - 🤝 Let connect with me on [LinkedIn](https://www.linkedin.com/in/esikmalazman/) or [Twitter](https://twitter.com/esikmalazman)
 
