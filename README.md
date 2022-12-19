@@ -24,9 +24,11 @@
 </p>
  -->
 
-
+<br>
+<br>
 ⭐️ Experience and Knowledgable in :
 
+<br>
 • Programming languages :
 -> Swift, Javascript (Basic), HTML/CSS(Basic)
 
