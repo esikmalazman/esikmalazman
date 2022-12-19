@@ -25,10 +25,11 @@
  -->
 
 <br>
-<br>
-⭐️ Experience and Knowledgable in :
 
-<br>
+### Experience and Knowledgable in :
+
+<hr>
+
 • Programming languages :
 -> Swift, Javascript (Basic), HTML/CSS(Basic)
 
