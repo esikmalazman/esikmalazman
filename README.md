@@ -24,3 +24,45 @@
 </p>
  -->
 
+
+⭐️ Experience and Knowledgable in :
+
+• Programming languages :
+-> Swift, Javascript (Basic), HTML/CSS(Basic)
+
+• UI Frameworks
+-> UIKit, SwiftUI(Basic)
+
+• UI Architecture
+-> MVC, MVP, MVVM
+
+• Frameworks
+-> ARKit 1 & 2, MapKit, CoreML, Vision(Object Detection, Text Classification), AVFoundation(Basic Sound & Camera), StoreKit (Basic), AutoLayout
+
+• Web Services
+ -> JSON, REST API
+
+• Databases
+ -> Core Data
+
+• Version Control / CI CD
+-> Git, GitHub
+
+• Publishing & Distribution 
+-> App Store Connect, Test Flight, App Center
+
+• Dependency Manager
+-> CocoaPods, Swift Package Manager(SPM)
+
+• Analytics
+-> Firebase Analytics, Mixpanel
+
+• UI/UX
+-> Figma, Adobe XD
+
+• Software Testing
+-> Selenium IDE, XCTest(Unit Test)
+
+• Business Analyst
+-> Enterprise Architect Sparx
+
