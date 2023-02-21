@@ -1,7 +1,7 @@
 
 <h1> Hi there 👋, I'm Ikmal Azman </h1>
 
-- iOS Engineer from 🇲🇾 Malaysia with 2 years of experience in iOS Engineering, developing application for Education and Food Delivery industry. 
+- iOS Engineer from 🇲🇾 Malaysia with 2 years of experience in iOS Engineering, developing application for Education, Social Media, Food Delivery industry. 
 - I'm interested in 👨‍💻 User Interface/User Experience design, 👓 Augmented Reality(AR) and 🤖 Machine Learning.
 - 🤝 Let connect with me on [LinkedIn](https://www.linkedin.com/in/esikmalazman/) or [Twitter](https://twitter.com/esikmalazman)
 
@@ -34,7 +34,7 @@
 -> Swift, Javascript (Basic), HTML/CSS(Basic)
 
 • UI Frameworks
--> UIKit, SwiftUI(Basic)
+-> UIKit, SwiftUI
 
 • UI Architecture
 -> MVC, MVP, MVVM
