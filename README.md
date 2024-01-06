@@ -1,5 +1,5 @@
 
-<h1> Hiya, Ikmal Azman here </h1>
+<h1> Hello, Ikmal Azman here </h1>
 
 - Software Engineer based in London with 2 years of start-up experience mainly in iOS Engineering. I worked on applications for Edutech, Social Media, Food Delivery industry. 
 - I'm interested in 👨‍💻 designing User Experience/Interface for digital products, 👓 Augmented Reality and 🤖 Machine Learning.
