@@ -2,7 +2,7 @@
 <h1> Hello, Ikmal Azman here </h1>
 
 - Software Engineer based in London with 3 years of start-up experience mainly in iOS Engineering. I worked on applications for Edutech, Social Media, Food Delivery industry. 
-- Also interested in 👨‍💻 User Experience/Interface Design for digital products, 👓 Augmented Reality and 🤖 Machine Learning.
+- Keen in 👨‍💻 User Experience and Interface Design for digital products, 👓 Augmented Reality and 🤖 Machine Learning.
 - Find me on [LinkedIn](https://www.linkedin.com/in/esikmalazman/) 🤝 or [Twitter](https://twitter.com/esikmalazman) 🦅
 
 <br>
