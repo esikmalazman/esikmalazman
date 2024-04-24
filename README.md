@@ -7,8 +7,12 @@
 
 <br>
 
-<a href="https://github.com/esikmalazman/Privacam-Submission-WWDC22">
+<a href="https://github.com/esikmalazman/Privacam-Submission-WWDC22 height=200">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esikmalazman&repo=Privacam-Submission-WWDC22&title_color=000000" />
+</a>
+
+<a href="https://github.com/esikmalazman/VidSnapr-Submission-WWDC24 height=200">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esikmalazman&repo=VidSnapr-Submission-WWDC24&title_color=000000" />
 </a>
 
 <!-- 
