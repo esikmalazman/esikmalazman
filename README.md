@@ -7,6 +7,10 @@
 
 <br>
 
+<a href="https://github.com/esikmalazman/SwiftUI-Prototypes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esikmalazman&repo=SwiftUI-Prototypes&title_color=000000" />
+</a>
+
 <a href="https://github.com/esikmalazman/Privacam-Submission-WWDC22">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esikmalazman&repo=Privacam-Submission-WWDC22&title_color=000000" />
 </a>
