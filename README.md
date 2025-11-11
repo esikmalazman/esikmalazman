@@ -14,10 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esikmalazman&repo=Privacam-Submission-WWDC22&title_color=000000" />
 </a>
 
-<a href="https://github.com/esikmalazman/VidSnapr-Submission-WWDC24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esikmalazman&repo=VidSnapr-Submission-WWDC24&title_color=000000" />
-</a>
-
 <!-- 
 <p align="center">
 <h2 align="center"> 📱 My App </h2>
